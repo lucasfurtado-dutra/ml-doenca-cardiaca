@@ -20,7 +20,7 @@ Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-
    
 `Para executar a ML instale o Databricks`
 
-`Crie um notebook em seguida um cluster, adicionar 4 celulas de codigos`
+`Crie um notebook e em seguida um cluster, adicionar 4 celulas de codigos`
 
 `copiar os arquivos nessa ordem `
 
