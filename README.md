@@ -26,6 +26,6 @@ Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-
 ## ✨ Funcionalidades
 Destaque as principais características ou funcionalidades do seu projeto. Use bullet points para facilitar a leitura.
 
-* `Funcionalidade 1: Breve descrição.`
-* `Funcionalidade 2: Breve descrição.`
-* `Funcionalidade 3: Breve descrição.`
+* `Geração de Predições de Risco: Habilidade de, dado um novo conjunto de dados de paciente, prever a probabilidade ou o risco de desenvolver doenças cardiovasculares.`
+* `Treinamento e Otimização do Modelo de ML: Desenvolvimento e treinamento de algoritmos de Machine Learning (via scikit-learn) para identificar padrões em dados clínicos e otimizar sua performance.`
+* `Engenharia de Características (Feature Engineering): Processo de criação ou seleção de variáveis relevantes a partir dos dados brutos para otimizar o desempenho do modelo de predição.`
