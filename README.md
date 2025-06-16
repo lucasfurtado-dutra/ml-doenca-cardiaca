@@ -20,12 +20,12 @@ Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-
    
 `Para executar a ML instale o Databricks`
 `Crie um notebook em seguida um cluster, adicionar 4 celulas de codigos`
-`e copiar os arquivos nessa ordem `
+`copiar os arquivos nessa ordem `
 
-*`main.py`
-*`priority.py`
-*`logit.py`
-*`analise.py`
+* `main.py`
+* `priority.py`
+* `logit.py`
+* `analise.py`
 
 * `libs`:
 * `pip install pandas`
