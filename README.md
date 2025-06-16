@@ -26,7 +26,7 @@ Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-
 *`logit.py`
 *`analise.py`
 
-##libs:##
+* `libs`:
 * `pip install pandas`
 * `pip install numpy`
 * `pip install matplotlib`
