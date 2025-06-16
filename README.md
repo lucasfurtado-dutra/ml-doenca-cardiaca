@@ -19,7 +19,9 @@ Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-
 1.  **Instalação das Bibliotecas:**
    
 `Para executar a ML instale o Databricks`
+
 `Crie um notebook em seguida um cluster, adicionar 4 celulas de codigos`
+
 `copiar os arquivos nessa ordem `
 
 * `main.py`
