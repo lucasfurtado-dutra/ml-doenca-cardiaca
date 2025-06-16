@@ -6,7 +6,7 @@ Este projeto desenvolve um modelo de Machine Learning em Python para a prediçã
 Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-learn para o treinamento dos algoritmos, o modelo analisa padrões em dados clínicos. A visualização dos resultados é feita com Matplotlib. Para garantir o processamento eficiente e escalável de grandes volumes de dados, toda a solução é implementada na plataforma Databricks, potencializada pelo poder do Apache Spark, criando uma ferramenta robusta de apoio à decisão médica.
 
 ## 🚀 Tecnologias Utilizadas
-* `Python (Libs: "pandas", "numpy", "scikit-learn", "matplotlib")`
+* `Python (Libs: "pandas", "numpy", "scikit-learn", "matplotlib", "statsmodels")`
 * `Databricks`
 * `Apache spark`
 
@@ -18,23 +18,23 @@ Utilizando as bibliotecas Pandas e Numpy para a manipulação de dados e Scikit-
 ## 💻 Instalação e Execução
 1.  **Instalação das Bibliotecas:**
    
-   `Para executar a ML instale o Databricks`
+   `Para executar a ML, entre no seu Databricks (https://login.databricks.com)`
    
-   `Crie um notebook e em seguida um cluster, adicionar 4 celulas de codigos`
+   `Crie um notebook, em seguida anexe um cluster para ele. (Recomendado que seja adicionado 4 celulas de códigos)`
 
-   `copiar os arquivos nessa ordem `
-
+   `Nas células de códigos adicionar respectivamente na ordem abaixo:`
 * `main.py`
 * `priority.py`
 * `logit.py`
 * `analise.py`
 
-  `libs:`
+  `Libs:`
   
 * `pip install pandas`
 * `pip install numpy`
 * `pip install matplotlib`
 * `pip install scikit-learn`
+* `pip install statsmodels`
    
 
 ## ✨ Funcionalidades
