@@ -1,5 +1,7 @@
 # ML pra predição de doenças cardiovasculares
 
+* `Link para do DataBricks do projeto: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1827107733663528/1795717227451338/6228417783277165/latest.html`
+
 ## 📝 Sobre o Projeto
 
 Este projeto desenvolve um modelo de Machine Learning em Python para a predição de doenças cardíacas, visando a identificação precoce de pacientes em risco.
