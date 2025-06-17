@@ -2,6 +2,8 @@
 
 **Link DataBricks do projeto:** https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1827107733663528/1795717227451338/6228417783277165/latest.html
 
+**Link para o Roteiro de extensão via Overleaf:** https://pt.overleaf.com/read/zdfpdgwkpzmh#e4d31c
+
 ## 📝 Sobre o Projeto
 
 Este projeto desenvolve um modelo de Machine Learning em Python para a predição de doenças cardíacas, visando a identificação precoce de pacientes em risco.
